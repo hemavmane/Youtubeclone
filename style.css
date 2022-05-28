@@ -1,0 +1,31 @@
+.left{
+    display: flex;
+    /* justify-content: space-around;
+    width: 100px;
+     */
+     flex: 1; 
+}
+.center{
+    display: flex;
+     flex: 1; 
+     
+}
+button{
+    size: 20px;
+}
+header{
+    cursor: pointer;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.right{
+    display: flex;
+   
+}
+.left .logo i{
+    color: rgb(226, 10, 10);
+    
+}
